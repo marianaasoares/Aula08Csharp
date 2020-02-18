@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.exe
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.deps.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.runtimeconfig.dev.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\bin\Debug\netcoreapp3.1\SwitchCase.pdb
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.AssemblyInfo.cs
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\SwitchCase\obj\Debug\netcoreapp3.1\SwitchCase.pdb

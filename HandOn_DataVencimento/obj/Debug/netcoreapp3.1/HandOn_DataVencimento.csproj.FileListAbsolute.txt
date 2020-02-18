@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\bin\Debug\netcoreapp3.1\HandOn_DataVencimento.exe
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\bin\Debug\netcoreapp3.1\HandOn_DataVencimento.deps.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\bin\Debug\netcoreapp3.1\HandOn_DataVencimento.runtimeconfig.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\bin\Debug\netcoreapp3.1\HandOn_DataVencimento.runtimeconfig.dev.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\bin\Debug\netcoreapp3.1\HandOn_DataVencimento.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\bin\Debug\netcoreapp3.1\HandOn_DataVencimento.pdb
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\obj\Debug\netcoreapp3.1\HandOn_DataVencimento.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\obj\Debug\netcoreapp3.1\HandOn_DataVencimento.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\obj\Debug\netcoreapp3.1\HandOn_DataVencimento.AssemblyInfo.cs
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\obj\Debug\netcoreapp3.1\HandOn_DataVencimento.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandOn_DataVencimento\obj\Debug\netcoreapp3.1\HandOn_DataVencimento.pdb

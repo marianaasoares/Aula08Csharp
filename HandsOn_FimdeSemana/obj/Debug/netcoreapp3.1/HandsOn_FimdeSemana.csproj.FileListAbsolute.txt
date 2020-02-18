@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\bin\Debug\netcoreapp3.1\HandsOn_FimdeSemana.exe
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\bin\Debug\netcoreapp3.1\HandsOn_FimdeSemana.deps.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\bin\Debug\netcoreapp3.1\HandsOn_FimdeSemana.runtimeconfig.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\bin\Debug\netcoreapp3.1\HandsOn_FimdeSemana.runtimeconfig.dev.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\bin\Debug\netcoreapp3.1\HandsOn_FimdeSemana.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\bin\Debug\netcoreapp3.1\HandsOn_FimdeSemana.pdb
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\obj\Debug\netcoreapp3.1\HandsOn_FimdeSemana.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\obj\Debug\netcoreapp3.1\HandsOn_FimdeSemana.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\obj\Debug\netcoreapp3.1\HandsOn_FimdeSemana.AssemblyInfo.cs
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\obj\Debug\netcoreapp3.1\HandsOn_FimdeSemana.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_FimdeSemana\obj\Debug\netcoreapp3.1\HandsOn_FimdeSemana.pdb

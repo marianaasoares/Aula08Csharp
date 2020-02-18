@@ -1,0 +1,11 @@
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\bin\Debug\netcoreapp3.1\HandsOn_LoopFor.exe
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\bin\Debug\netcoreapp3.1\HandsOn_LoopFor.deps.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\bin\Debug\netcoreapp3.1\HandsOn_LoopFor.runtimeconfig.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\bin\Debug\netcoreapp3.1\HandsOn_LoopFor.runtimeconfig.dev.json
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\bin\Debug\netcoreapp3.1\HandsOn_LoopFor.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\bin\Debug\netcoreapp3.1\HandsOn_LoopFor.pdb
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\obj\Debug\netcoreapp3.1\HandsOn_LoopFor.csprojAssemblyReference.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\obj\Debug\netcoreapp3.1\HandsOn_LoopFor.AssemblyInfoInputs.cache
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\obj\Debug\netcoreapp3.1\HandsOn_LoopFor.AssemblyInfo.cs
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\obj\Debug\netcoreapp3.1\HandsOn_LoopFor.dll
+C:\Users\mariana.dsantos.LABORATORIO\source\repos\HandOn_DataVencimento\HandsOn_LoopFor\obj\Debug\netcoreapp3.1\HandsOn_LoopFor.pdb
